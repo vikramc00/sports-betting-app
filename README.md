@@ -17,6 +17,3 @@ Run the web app(Requires a browser)
 cd frontend
 npm run web
 ```
-
-## Contributing
-Feel free to push anything directly to the repo if you have push access.
