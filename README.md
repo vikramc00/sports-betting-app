@@ -13,7 +13,7 @@ Frontend features: sign-in, account status, betting page, add friends, popular s
 - Smart contract system to automate the general betting process, ensure secure and efficient transactions.
 
 
-## Backend: 
+## Backend
 - Constructor: initialize contract function
 - startGame: caculate total amounts bet on each team
 - joinGame (team#, amount): add to address to player mapping, add money to contact pool
