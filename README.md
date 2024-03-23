@@ -1,6 +1,11 @@
 # Sports Betting App
 
+## Description
 This is the frontend and login for the sports betting app created using React Native and Firebase.
+
+Technologies: Figma, React Native, JavaScript, Java, MySQL, Firebase, React-Native, Metamask, Solidity, sportsDB API
+
+Frontend features: sign-in, account status, betting page, add friends, popular sports games, shop
 
 ## Functions
 - Allow users to communally place bets and receive payouts based on real-time results.
